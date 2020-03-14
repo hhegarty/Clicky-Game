@@ -1,0 +1,75 @@
+
+[
+    {
+      "id": 1,
+      "name": "sarah",
+      "image": "./assets/images/sarah.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "dani",
+      "image": "./assets/images/dani.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "max",
+      "image": "./assets/images/max.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "allisonmax",
+      "image": "./assets/images/allisonmax.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "billy",
+      "image": "./assets/images/billy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "danimaxallison",
+      "image": "./assets/images/danimaxallison.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "maxdani",
+      "image": "./assets/images/maxdani.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "winifred",
+      "image": "./assets/images/winifred.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "mary",
+      "image": "./assets/images/mary.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "threesisters",
+      "image": "./assets/images/threesisters.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "allison",
+      "image": "./assets/images/allison.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "thackery",
+      "image": "./assets/images/thackery.jpg",
+      "clicked": false
+    }
+  ]
