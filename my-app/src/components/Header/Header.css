@@ -1,0 +1,22 @@
+.header {
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+}
+
+.brand-logo{
+    padding: 10px;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align:center;
+}
+
+.score-details{
+    padding: 10px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+

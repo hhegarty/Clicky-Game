@@ -6,7 +6,6 @@ import characters from './characters.json';
 import './App.css';
 
 import Header from './components/Header';
-import Footer from './components/Footer';
 import CardList from './components/CardList';
 
 class App extends Component {
@@ -73,7 +72,7 @@ class App extends Component {
         <div className='wrapper'>
           <CardList characters={characters} imageClick={this.imageClick} />
         </div>
-        <Footer />
+        
       </div>
     );
   }

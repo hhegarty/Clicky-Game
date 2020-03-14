@@ -10,7 +10,6 @@ const Header = props => (
       <div>
         <strong>Score</strong> {props.score}
       </div>{' '}
-      |{' '}
       <div>
         <strong>High Score</strong> {props.highScore}{' '}
       </div>
