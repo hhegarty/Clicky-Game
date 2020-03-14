@@ -10,8 +10,6 @@ This is a simple memorization and click game. The object of the game is to click
 ![](../images/screen.jpg)
 
 
-
-
 **How to Play:**
 
 - Open the app/game:  https://hhegarty.github.io/Clicky-Game/
