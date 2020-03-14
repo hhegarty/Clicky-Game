@@ -7,8 +7,7 @@ Do you think you know the characters from Hocus Pocus well? If so, put your know
 This is a simple memorization and click game. The object of the game is to click on only one character once. If you repeat guesses, you lose and the score is reset to 0. You win by reaching the max score total of 12.
 <br>
 
-![](../images/screen.jpg)
-
+<img src= "../assets/images/screen.jpg">
 
 **How to Play:**
 
