@@ -11,7 +11,7 @@ This is a simple memorization and click game. The object of the game is to click
 
 **How to Play:**
 
-- Open the app/game: 
+- Open the app/game: https://lit-sierra-10545.herokuapp.com/
 - Click on any character you desire
 - They will all reshuffle themselves
 - Click on another character, but REMEMBER that you can only click on a character once.
