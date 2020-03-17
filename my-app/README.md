@@ -7,11 +7,11 @@ Do you think you know the characters from Hocus Pocus well? If so, put your know
 This is a simple memorization and click game. The object of the game is to click on only one character once. If you repeat guesses, you lose and the score is reset to 0. You win by reaching the max score total of 12.
 <br>
 
-<img src= "../assets/images/screen.jpg">
+
 
 **How to Play:**
 
-- Open the app/game:  https://hhegarty.github.io/Clicky-Game/
+- Open the app/game: 
 - Click on any character you desire
 - They will all reshuffle themselves
 - Click on another character, but REMEMBER that you can only click on a character once.
